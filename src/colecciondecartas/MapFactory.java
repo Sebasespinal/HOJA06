@@ -1,0 +1,5 @@
+package colecciondecartas;
+
+class MapFactory {
+
+}
